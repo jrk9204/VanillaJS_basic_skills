@@ -64,7 +64,7 @@ function displayMenuItems(itemData) {
                             <div class="itemDesc">${el.content}</div>
                         </div>
                     </div>
-                </article>
+        </article>
 
         `;
     });
