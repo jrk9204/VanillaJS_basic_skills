@@ -126,7 +126,6 @@ function displayMenuItems(itemData) {
                             src=${el.img}
                             alt="food"
                         />
-
                         <div class="rightContainer">
                             <div class="titleSection">
                                 <h4 class="itemTitle"> ${el.title} </h4>
